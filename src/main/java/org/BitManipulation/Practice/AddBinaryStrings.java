@@ -3,7 +3,7 @@ package org.BitManipulation.Practice;
 Given two binary strings, return their sum (also a binary string).
  */
 public class AddBinaryStrings {
-     public String addBinary(String a, String b) {
+     public static String addBinary(String a, String b) {
         StringBuilder sb = new StringBuilder();
         int i = a.length() - 1;
         int j = b.length() - 1;
