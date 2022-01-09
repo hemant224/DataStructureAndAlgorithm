@@ -1,4 +1,4 @@
-package org.example;
+package org.BitManipulation.Practice;
 
 import static org.junit.Assert.assertTrue;
 
